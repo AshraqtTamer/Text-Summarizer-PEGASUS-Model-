@@ -1,6 +1,6 @@
 # 🚀 PEGASUS Text Summarizer
 
-This project is a **web-based text summarization app** using the **PEGASUS model** (Pre-training with Extracted Gap-sentences for Abstractive Summarization) from Hugging Face.  
+This project is a **text summarization system** using the **PEGASUS model** (Pre-training with Extracted Gap-sentences for Abstractive Summarization) from Hugging Face.  
 It creates **abstractive summaries** from long text inputs with state-of-the-art performance.
 
 ### 🛠️ Tools & Technologies Used
